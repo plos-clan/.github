@@ -14,7 +14,7 @@
 
 * 然后 PlantOS 也重构了，新储存库迁移到 plos-clan
 
-> [min0911Y/Plant-OS](https://github.com/min0911Y/Plant-OS) 迁移到 [plos-clan/Plant-OS](https://github.com/plos-clan/Plant-OS)
+> [min0911Y/Plant-OS](https://github.com/min0911Y/Plant-OS) 迁移到 [plos-clan/Plant-OS](https://github.com/plos-clan/Plant-OS) <br>
 > 旧储存库的画大饼 ReadMe 别看哦
 
 <br>
