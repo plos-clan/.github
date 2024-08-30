@@ -25,7 +25,7 @@
 * [XIAOYI1212](https://github.com/XIAOYI1212)
 * [flysong](https://github.com/theflysong)
 * [yywd](https://github.com/yywd123)
-* [Ruster](https://github.com/zzjcarrot)
+* [UEFIer](https://github.com/zzjcarrot)
 * [Copi143](https://github.com/copi143)
 
 ****
