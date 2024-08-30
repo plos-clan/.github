@@ -31,3 +31,5 @@
 ****
 
 ## Linuxer什么时候写JIT？！
+
+## Copi啥时候学rust？！
