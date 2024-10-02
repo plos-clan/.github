@@ -30,6 +30,7 @@
 * [yywd](https://github.com/yywd123)
 * [UEFIer](https://github.com/zzjrabbit)
 * [Copi143](https://github.com/copi143)
+* [xiguajerry](https://github.com/xiguajerry)
 
 ****
 
