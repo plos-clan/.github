@@ -20,8 +20,6 @@
 > [plos-clan/CoolPotOS](https://github.com/plos-clan/CoolPotOS) <br>
 > 是plos-clan中STAR数目前最高的存储库, 有55个STAR!
 
-<br>
-
 ## 可以联系的活跃管理员们
 * [wenxuanjun](https://github.com/wenxuanjun)
 * [Linuxer](https://github.com/CLimber-Rong)
@@ -32,10 +30,6 @@
 * [Copi143](https://github.com/copi143)
 * [xiguajerry](https://github.com/xiguajerry)
 
-****
+#### Linuxer什么时候写JIT？！Copi啥时候学rust？！
 
-## Linuxer什么时候写JIT？！
-
-## Copi啥时候学rust？！
-
-> > 一次性回答上面两个问题，大概永远不会了（？）
+> 一次性回答上面两个问题，大概永远不会了（？）
