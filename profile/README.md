@@ -18,7 +18,7 @@
 > 旧储存库的画大饼 ReadMe 别看哦
 
 > [plos-clan/CoolPotOS](https://github.com/plos-clan/CoolPotOS) <br>
-> 是plos-clan中STAR数目前最高的存储库, 有55个STAR!
+> 是plos-clan中STAR数目前最高的存储库, 有57个STAR!
 
 ## 可以联系的活跃管理员们
 * [wenxuanjun](https://github.com/wenxuanjun)
