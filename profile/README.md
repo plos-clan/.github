@@ -6,7 +6,7 @@
 
 > QQ群号：994106260
 
-* 这个组织最先是用来建立os群的官网的。
+* 这个组织最先是用来建立os群的官网的，目前发展到了成员数目可观的社区。
 
 > 官网：[https://plos-clan.org/](https://plos-clan.org/)
 
@@ -18,7 +18,7 @@
 > 旧储存库的画大饼 ReadMe 别看哦
 
 > [plos-clan/CoolPotOS](https://github.com/plos-clan/CoolPotOS) <br>
-> 是plos-clan中STAR数目前最高的存储库, 有57个STAR!
+> 是plos-clan中STAR数目前最高的存储库, 有72个STAR!
 
 ## 可以联系的活跃管理员们
 * [wenxuanjun](https://github.com/wenxuanjun)
