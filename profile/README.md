@@ -33,3 +33,5 @@
 #### Linuxer什么时候写JIT？！Copi啥时候学rust？！
 
 > 一次性回答上面两个问题，大概永远不会了（？）
+
+> copi143: 在学 Kotlin 呢，rust 就等等吧。
