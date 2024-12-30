@@ -1,5 +1,7 @@
 # 这里是 OS & PL 开发 | 交流 | 闲聊 群的 GitHub 组织
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F4186F89)
+
 ## 一些废话
 
 * [min0911_](https://github.com/min0911Y)开发了[Powerint DOS 386](https://github.com/zhouzhihaos/Powerint-DOS-386)操作系统，并建立了QQ交流群（简称OS群）。
