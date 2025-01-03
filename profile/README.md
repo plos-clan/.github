@@ -12,7 +12,9 @@
 
 * 这个组织最先是用来建立os群的官网的，目前发展到了成员数目可观的社区。
 
-> 官网：[https://plos-clan.org/](https://plos-clan.org/)
+> 官网：[plos-clan.org](https://plos-clan.org/)
+
+> 文档：[docs.plos-clan.org](https://docs.plos-clan.org/)
 
 * 现在，群主重构了 Powerint DOS 386（简称pdos），并更名为 PlantOS（简称plos）。
 
