@@ -35,6 +35,7 @@
 * [UEFIer](https://github.com/zzjrabbit)
 * [Copi143](https://github.com/copi143)
 * [xiguajerry](https://github.com/xiguajerry)
+* [SegmentationFaultCD](https://github.com/SegmentationFaultCD)
 
 #### Linuxer什么时候写JIT？！Copi啥时候学rust？！
 
