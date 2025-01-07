@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Plos%20Clan&textBg=false&section=header&reversal=true)
+
 # 这里是 OS & PL 开发 | 交流 | 闲聊 群的 GitHub 组织
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F4186F89)
@@ -24,7 +26,7 @@
 > 旧储存库的画大饼 ReadMe 别看哦
 
 > [plos-clan/CoolPotOS](https://github.com/plos-clan/CoolPotOS) <br>
-> 是plos-clan中STAR数目前最高的存储库, 有![](https://badgen.net/github/stars/plos-clan/CoolPotOS)个STAR!
+> 是plos-clan中STAR数目前最高的存储库, 有 ![](https://badgen.net/github/stars/plos-clan/CoolPotOS) 个STAR!
 
 ## 可以联系的活跃管理员们
 * [wenxuanjun](https://github.com/wenxuanjun)
