@@ -25,7 +25,7 @@
 > [min0911Y/Plant-OS](https://github.com/min0911Y/Plant-OS) 迁移到 [plos-clan/Plant-OS](https://github.com/plos-clan/Plant-OS) <br>
 > 旧储存库的画大饼 ReadMe 别看哦
 
-> [plos-clan/CoolPotOS](https://github.com/plos-clan/CoolPotOS) <br>
+> [plos-clan/CoolPorOS](https://github.com/plos-clan/CoolPotOS) <br>
 > 是plos-clan中STAR数目前最高的存储库, 有 ![](https://badgen.net/github/stars/plos-clan/CoolPotOS) 个STAR!
 
 ## 可以联系的活跃管理员们
