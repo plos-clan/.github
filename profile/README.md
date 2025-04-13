@@ -47,8 +47,6 @@
 
 > Linuxer：群主先女装再说。
 
-> Linus Torvalds: I'm always right. This time I'm just even more right than usual.
-
 #### 群主女装呢？？？
 
 > xiaoyi12 会解决的 : )
