@@ -6,25 +6,29 @@
 
 [爱发电](https://afdian.com/a/plos-clan)
 
+> ~~然而无人在意~~
+
 ## 一些废话
 
-* [min0911_](https://github.com/min0911Y)开发了[Powerint DOS 386](https://github.com/zhouzhihaos/Powerint-DOS-386)操作系统，并建立了QQ交流群（简称OS群）。
+- [min0911_](https://github.com/min0911Y)开发了[Powerint DOS 386](https://github.com/zhouzhihaos/Powerint-DOS-386)操作系统，并建立了QQ交流群（简称OS群）。
 
-> `OS & PL 开发 | 交流 | 闲聊`: `994106260` <br>
-> `MC | OSU! | Phigros | 闲聊`: `1029769790` <br>
+> `OS & PL 开发 | 交流 | 闲聊`: `994106260` <br />
+> `MC | OSU! | Phigros | 闲聊`: `1029769790` <br />
 
-* 这个组织最先是用来建立OS群的官网的，目前发展到了成员数目可观的社区。
+- 这个组织最先是用来建立OS群的官网的，目前发展到了成员数目可观的社区。
 
 > 官网：[plos-clan.org](https://plos-clan.org/)
 
 > 文档：[docs.plos-clan.org](https://docs.plos-clan.org/)
 
-* 现在，群主重构了 Powerint DOS 386（简称PDOS），并更名为 PlantOS（简称PLOS）。
+- 现在，群主重构了 Powerint DOS 386（简称PDOS），并更名为 PlantOS（简称PLOS）。
 
-* 然后 PlantOS 也重构了，新储存库迁移到 plos-clan
+- 然后 PlantOS 也重构了，新储存库迁移到 plos-clan
 
 > [min0911Y/Plant-OS](https://github.com/min0911Y/Plant-OS) 迁移到 [plos-clan/Plant-OS](https://github.com/plos-clan/Plant-OS) <br>
-> 旧储存库的画大饼 ReadMe 别看哦
+> ~~旧储存库的画大饼 ReadMe 别看哦~~
+
+- 然后项目就似掉了
 
 > [plos-clan/CoolPotOS](https://github.com/plos-clan/CoolPotOS) <br>
 > 是plos-clan中STAR数目前最高的存储库, 有 ![](https://badgen.net/github/stars/plos-clan/CoolPotOS) 个 STAR!
@@ -32,6 +36,7 @@
 ~~*有 `GitHub | 403` 个 STAR*~~
 
 ## 可以联系的活跃管理员们
+
 * [wenxuanjun](https://github.com/wenxuanjun)
 * [Linuxer](https://github.com/CLimber-Rong)
 * [XIAOYI1212](https://github.com/XIAOYI1212)
@@ -55,3 +60,5 @@
 #### 群主女装呢？？？
 
 > xiaoyi12 会解决的 : )
+
+> xdm 都 2026 了（
