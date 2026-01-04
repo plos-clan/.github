@@ -4,9 +4,9 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F4186F89)
 
-[爱发电](https://afdian.com/a/plos-clan)
+[爱发电](https://afdian.com/a/coolpotos)
 
-> ~~然而无人在意~~
+> xiaoyi12: 旧捐款链接因为未经认证搜不到, 故用 CoolPotOS 爱发电接管 plos-clan 捐赠渠道
 
 ## 一些废话
 
