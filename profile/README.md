@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Plos%20Clan&textBg=false&section=header&reversal=true)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=We%20are%20Plos-Clan&textBg=false&section=header&reversal=true)
 
 # 这里是 `OS & PL 开发 | 交流 | 闲聊` 群和 `MC | OSU! | Phigros | 闲聊` 群的 GitHub 组织
 
@@ -43,9 +43,11 @@
 * [flysong](https://github.com/theflysong)
 * [yywd](https://github.com/yywd123)
 * [UEFIer](https://github.com/zzjrabbit)
-* [Copi143](https://github.com/copi143)
+* [copi143](https://github.com/copi143)
 * [xiguajerry](https://github.com/xiguajerry)
 * [SegmentationFaultCD](https://github.com/SegmentationFaultCD)
+
+> 有些人真的活跃吗
 
 #### Linuxer什么时候写JIT？！~~Copi啥时候学rust？！~~
 
