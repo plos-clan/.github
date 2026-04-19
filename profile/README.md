@@ -43,7 +43,7 @@
 * [flysong](https://github.com/theflysong)
 * [yywd](https://github.com/yywd123)
 * [UEFIer](https://github.com/zzjrabbit)
-* [copi143](https://github.com/copi143)
+* ~~[copi143](https://github.com/copi143)~~
 * [xiguajerry](https://github.com/xiguajerry)
 * [SegmentationFaultCD](https://github.com/SegmentationFaultCD)
 
