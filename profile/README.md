@@ -49,15 +49,17 @@
 
 > 有些人真的活跃吗
 
-#### Linuxer什么时候写JIT？！~~Copi啥时候学rust？！~~
+#### ~~Linuxer什么时候写JIT？！Copi啥时候学rust？！~~
 
 > ~~一次性回答上面两个问题，~~ 大概永远不会了（？）
 
 > ~~copi143: 在收集群主本子呢，学 rust 就等等吧。~~
 
-> Linuxer：群主先女装再说。
+> ~~Linuxer：群主先女装再说。~~
 
 *copi143注：已学，故删除部分内容*
+
+*Linuxer注：基于x86_64架构和Copy-and-Patch技术的JIT虚拟机``jitrix``现已发布，地址为[https://github.com/CLimber-Rong/jitrix](https://github.com/CLimber-Rong/jitrix)，我JIT虚拟机做成功了，**所以群主什么时候女装？***
 
 #### 群主女装呢？？？
 
